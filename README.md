@@ -48,7 +48,7 @@ Compatible with Spotify, Apple Music, Deezer, and local Music Libraries.
 3. Choose your preferred OpenAI model.
 4. Decide on your logging preferences.
 5. [Download the SonoBoss Siri Shortcut](https://www.icloud.com/shortcuts/1e06c2b1f4b14df187aa7c0a7b97001a).
-6. At first, run the Shortcut without wuthout invoking Siri first. This trains Siri that a Shortcut named SonoBoss exists.  
+6. At first, run the Shortcut without invoking Siri. This trains Siri that a Shortcut named SonoBoss exists.  
 7. Allow connections to your Sonos HTTP API bridge, to api.openai.com and allow for additions to the Notes app.
 -  If notifiation "file x.TXT does not exist" appears, your iCloud drive connection is stale. open Files -> iCloud -> Shortcuts -> SonoBoss -> today's date to resolve.
 
