@@ -54,7 +54,7 @@ Compatible with Spotify, Apple Music, Deezer, and local Music Libraries.
 
 ## Siri prompt guidelines
 - **Include room name:** Include the room name when you open a new conversation
-- **Elaborate:** Whereas OpenAI gpt-4 is more capable at determining if Abba is an artist, a song or a playlist; gpt-3.5-turbo is not. 
+- **Elaborate:** Whereas OpenAI gpt-4 can search on the web and is capable, determining if "Abba" is an artist, a song or a playlist; gpt-3.5-turbo is not. 
 
 ## Advanced Usage
 - Be aware of OpenAI API token pricing.
