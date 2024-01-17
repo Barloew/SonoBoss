@@ -53,8 +53,7 @@ Compatible with Spotify, Apple Music, Deezer, and local Music Libraries.
 -  If notifiation "file x.TXT does not exist" appears, your iCloud drive connection is stale. open Files -> iCloud -> Shortcuts -> SonoBoss -> today's date to resolve.
 
 ## Siri prompt guidelines
-- **First Run:** Include the room name when you open a conversation
-- **Include room name:** Include the room name when you open a conversation
+- **Include room name:** Include the room name when you open a new conversation
 - **Elaborate:** Whereas OpenAI gpt-4 is more capable at determining if Abba is an artist, a song or a playlist; gpt-3.5-turbo is not. 
 
 ## Advanced Usage
