@@ -1,4 +1,4 @@
-# SonoBoss: Siri Shortcut for ChatGPT-smart Sonos Speaker Control
+# Siri Shortcut for ChatGPT-smart Sonos control
 
 ## Overview
 SonoBoss is a Siri Shortcut designed for seamless voice control of Sonos speakers. It acts as a virtual assistant for a hands-free music experience.
